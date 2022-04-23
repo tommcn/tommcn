@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tommcn
+👋 Hi, I’m @tommcn
 
 <!---
 tommcn/tommcn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
